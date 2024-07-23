@@ -1,0 +1,4 @@
+Smontar
+nasm -f elf64 programa.asm
+linkar
+ld hello.o -o programaS.x
